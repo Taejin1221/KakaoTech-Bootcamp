@@ -3,4 +3,5 @@
 *.csv
 *.xlsx
 Team Project/Data/*
+GenAI/Data/*
 *.vscode*
